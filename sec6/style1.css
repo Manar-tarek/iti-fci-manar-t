@@ -1,0 +1,73 @@
+.aa
+{
+	background:url(manar.BMP); 
+	padding-bottom: 5%;
+	background-image: linear-gradient(to right, pink, white);
+}
+a
+{
+	padding-left: 4%;
+	font-style: unset;
+}
+h1
+{
+	text-align: center;
+	padding-top: 100px;
+	color: white;
+	font-family: French Script MT;
+	color: grey;
+}
+h2
+{
+	font-size: 100px;
+	padding-top: 10px;
+	text-align: center;
+	color: grey;
+	font-family: French Script MT;
+}
+
+.a
+{
+	background : grey; 
+	margin-left: 45%;
+	padding-left: 40px;
+	padding-right: 40px;
+	margin-top: 40px;
+}
+nav
+{
+	background-image: inherit;
+}
+.w
+{
+	text-align: center;
+	font-size: 60px;
+	padding-top: 5%;
+}
+p
+{
+	text-align: center;
+}
+
+
+i
+{
+	border-radius: 50%;
+	background: pink; 	
+	margin-left: 120px;
+	color: #fff;
+	padding: 5%;
+}
+.e
+{
+	font-size: 20px;
+	text-align: center;
+}
+.r
+{
+	text-align: center;
+}
+.w
+{
+	color: grey;
+}

@@ -1,0 +1,133 @@
+.logo{
+	margin-left: 10%;	
+	}
+	ul
+	{
+		margin-left: 50%;
+	}
+	li:hover
+	{
+		background: #1ABC9C;
+	}
+	div.bb
+	{
+	   background: #1ABC9C;
+	}
+	h1.bb
+	{
+		text-align: center;
+		color: white;
+		font-size: 400%;
+	}
+	embed.bb
+	{
+		width: 15%;
+		height:15%;
+		margin-left: 44%;
+		margin-top: 8%;
+	}
+	p.bb
+	{
+		color: white;
+		font-size: 150%;
+		text-align:center;
+		margin-top: 3%;
+		padding-bottom: 8%;
+	}
+	h1.cc
+	{
+		text-align: center;
+		color: black;
+		margin-top: 5%;
+		font-size: 300%;
+	}
+	.ii
+	{
+		width: 100%;
+		margin-top: 5%;
+	}
+	.ll
+	{
+		width: 100%;
+		margin-top: 5%;
+		padding-bottom: 20%;
+	}
+	h1.dd
+	{
+		text-align: center;
+		color: white;
+		font-size: 45px;
+	
+	}
+	div.dd
+	{
+		background: #1ABC9C;
+	}
+	p.dd
+	{
+		color: white;
+		margin-top: 5%;
+		font-size: 20px;
+	}
+	a.h
+	{
+		margin-left: 45%;
+		padding: 1%;
+		border-radius: 10%;
+		margin-bottom: 5%;
+		margin-top: 1%;
+		background:  #1ABC9C;
+		border-color: white;
+	}
+	h1.ee
+	{
+		text-align: center;
+		color: #2C3E50;
+		margin-top: 5%;
+		font-size: 300%;
+	}
+	hr
+	{
+		display: inline-block;
+		width: 100px;
+		height: 5px;
+		background:#2C3E50;
+	}
+	i
+	{
+		color: #2C3E50;
+	}
+	.hr1
+	{
+		margin-left: 43%;
+	}
+	h2.ff
+	{
+		color: white;
+	}
+	div.ff
+	{
+		background: #2C3E50;
+	}
+	p.ff
+	{
+		color: white;
+	}
+	i.ff
+	{
+		color: white;
+		border-color: white;
+	}
+	
+	.form-control{
+			border: 1px solid #fff !important;
+			height: 100px;
+	
+	}
+	button.ee
+	{
+		background: #1ABC9C;
+		margin-left: 5%;
+		border-radius: 20%;
+		font-size: 200%;
+	}

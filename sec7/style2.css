@@ -1,0 +1,146 @@
+.aa
+{
+	background-image: url(bg-masthead.jpg);
+}
+h1
+{
+	text-align: center;
+	color: white;
+}
+h6
+{
+	text-align: center;
+	color: white;
+
+}
+div.x
+{
+	padding-top: 5%;
+	margin-top: 70px;
+}
+
+ul
+{
+	margin-left: 50%;
+}
+a.a
+{
+	margin-left: 45%;
+	margin-bottom: 5%;
+	margin-top: 5%;
+	background: #F4623A;
+	border-radius: 20px;
+}
+.logo{
+margin-left: 3%;	
+}
+nav
+{
+	background: inherit;
+}
+.secondesection
+{
+	background-color: #F4623A;
+}
+h1.headersection2
+{
+	padding-top: 8%;
+}
+.p
+{
+	text-align: center;
+	margin-top: 5%;
+	color: white;
+}
+a.b
+{
+	margin-left: 47%;
+	margin-bottom: 5%;
+	margin-top: 1%;
+	background: white;
+	color: black;
+	border-radius: 20px;
+}
+h1.headersection3
+{
+	text-align: center;
+	color: black;
+	padding-top: 8%;
+}
+i
+{
+	color:#F4623A;
+}
+div.im
+{
+	margin-top: 5%;
+	margin-bottom: 10%;
+}
+h5
+{
+	font-size: 30px;
+}
+h1.headersection3
+{
+	text-align: center;
+	color: black;
+	padding-top: 8%;
+}
+.thirdsection
+{
+	background: #343A40;
+
+}	
+h2.headersection4
+{
+	text-align: center;
+	color: white;
+	padding-top: 8%;
+}
+.ii{
+	width: 100%
+}
+a.c
+{
+	margin-left: 47%;
+	margin-bottom: 8%;
+	margin-top: 1%;
+	background: white;
+	color: black;
+	border-radius: 50px;
+	padding: 20px;
+}
+h2.headersection5
+{
+	text-align: center;
+	padding-top: 8%;
+}
+div.b
+{
+	text-align: center;
+	color: grey;
+	margin-top:5%; 
+}
+i.ss
+{
+	padding-left:90px;
+	color: grey; 
+}
+a.mm
+{
+	color: red;
+	padding-left: 30px;
+	margin-top: 30px;
+}
+p.mm
+{
+	padding-left: 30px;
+	padding-top: 20px;
+}
+p.kk
+{
+	text-align: center;
+	color: grey;
+	padding-top: 5%;
+	padding-bottom:5%;
+}

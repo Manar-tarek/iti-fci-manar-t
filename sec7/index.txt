@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>app</title>
+	<!-- BS -->
+		<link rel="stylesheet" type="text/css" href="bootstrap-4.0.0/dist/css/bootstrap.css">
+	<script type="text/javascript" src="bootstrap-4.0.0/js/tests/vendor/jquery-1.9.1.min.js"></script>
+	<script type="text/javascript" src="bootstrap-4.0.0/assets/js/vendor/popper.min.js"></script>
+	<script type="text/javascript" src="bootstrap-4.0.0/dist/js/bootstrap.min.js"></script>
+	<!-- Fontawsome -->
+	<link href="fontawesome-free-5.9.0-web/css/fontawesome.css" rel="stylesheet">
+  <link href="fontawesome-free-5.9.0-web/css/brands.css" rel="stylesheet">
+  <link href="fontawesome-free-5.9.0-web/css/solid.css" rel="stylesheet">
+  <!-- custom css -->
+  <link rel="stylesheet" type="text/css" href="css.css">
+</head>
+<body>
+	<div class="aa">
+		<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+	    	<a class="navbar-brand logo" href="#">START BOOTSTRAP</a>
+	    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+   		 <span class="navbar-toggler-icon"></span>
+ 		 </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="#">ABOUT<span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">SERVICES</a>
+      </li>
+      <li class="nav-item dropdown">
+         <a class="nav-link" href="#">PORTFOLIO</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link disabled" href="#">CONTAVT</a>
+      </li>
+    </ul>
+  </div>
+  </nav>
+  <br>
+  <div class="x">
+  <h1><strong>YOUR FAVORITE SOURCE OF</strong></h1> 
+  <h1><strong>FREE BOOTSTRAP THEMES</strong></h1>
+  <br>
+  <h6>Start Bootstrap can help you build better websites using the Bootstrap </h6>
+  <h6>framework! Just download a theme and start customizing, no strings attached!</h6>
+  <a  class="btn  a" href="#" role="button">FIND OUT MOR</a> 
+  </div>
+</div>
+<div class="secondesection">
+	<h1 class="headersection2">We've got what you need!</h1>
+	<div class="p">
+    <p>Start Bootstrap has everything you need to get your new website up and running in no time!</p>
+    <p>Choose one of our open source, free to download, and easy to use themes! No strings </p>
+    <p>attached!</p>
+</div>
+<a  class="btn  b" href="#" role="button">GET START</a> 
+</div>
+<div>
+	<h1 class="headersection3">At Your Service</h1>
+	<div class="container">
+  <div class="row justify-content-md-center im">
+  <div class="col-lg-3 img" ><i class="fas fa-gem fa-3x"></i>
+  <h5 class="e">Sturdy Themes</h5>
+      <br>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod. </p></div>
+  <div class="col-lg-3 img"><i class="fas fa-laptop-code fa-3x"></i>
+  <h5 class="e">Up to Date</h5>
+      <br>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod. </p></div>
+  <div class="col-lg-3 img"><i class="fas fa-globe fa-3x"></i>
+  <h5 class="e">Ready to Publish</h5>
+      <br>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.
+     </p></div>
+  <div class="col-lg-3 img"><i class="fas fa-heart fa-3x"></i>
+  	<h5 class="e">Made with Love</h5>
+      <br>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.
+     </p>
+  </div>
+</div>
+</div>
+</div>
+  <div class="row justify-content-md-center">
+  	<div class="col-lg-4"><img src="1.jpg" class="ii"></div>
+  	<div class="col-lg-4"><img src="2.jpg" class="ii"></div>
+  	<div class="col-lg-4"><img src="3.jpg" class="ii"></div>
+  </div>
+
+
+   <div class="row justify-content-md-center">
+  	<div class="col-lg-4"><img src="4.jpg" class="ii"></div>
+  	<div class="col-lg-4"><img src="5.jpg" class="ii"></div>
+  	<div class="col-lg-4"><img src="6.jpg" class="ii"></div>
+  </div>
+
+<div class="thirdsection"><h2 class="headersection4">Free Download at Start Bootstrap!</h2>
+	<a class="btn c" href="#" role="button"><strong>Download Now!</strong></a>
+</div>
+<div><h2 class="headersection5">Let's Get In Touch!</h2>
+<div class="b"><p><strong>Ready to start your next project with us? Give us a call or send us an email and we will get</strong></p>
+<p><strong>back to you as soon as possible!</strong></p>
+</div>
+</div>
+<div class="container">
+  <div class="row justify-content-md-center">
+  	<div class="col-lg-3"></div>
+  	<div class="col-lg-3"><i class="fas fa-phone fa-3x ss"></i><p class="mm">+1 (202) 555-0149</p></div>
+  	<div class="col-lg-3"><i class="fas fa-envelope fa-4x ss"></i><a href="#" class="mm">contact@yourwebsit.com</a></div>
+  	<div class="col-lg-3"></div>
+  </div>
+</div>
+<p class="kk">Copyright © 2019 - Start Bootstrap</p>
+</body>
+</html>
